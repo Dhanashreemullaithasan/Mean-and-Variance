@@ -47,10 +47,37 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ![Capture](https://user-images.githubusercontent.com/94165415/192945546-0749e784-14b9-40ab-a60f-06c0422041b1.PNG)
 # Program :
-
-
-
+```
+import humpy as np
+L=[int (i) for i in input () .split ()]
+N=1en (L) ; M=max (L)
+x=list ();f=list ()
+for i in range (M+1) :
+C
+= Q
+for j in range (N) :
+if L[j]=-i:
+c=c+1
+f.append(c)
+x .append (i)
+sf=np. sum(f)
+p=list()
+for i in range (M+1) :
+p-append(f[il/sf)
+mean=p-inner(x,p)
+EX2=np-inner (np. square (x), P)
+var=EX2-mean**2
+SD=np.sqrt(var)
+print("The Hean arrival rate is %.3f "%mean)
+print ("The Variance of arrival from feeder is %.3f
+"%var)
+print ("The Standard deviation of arrival from feeder is %.3F
+"%SD)
+```
 
 # Results and Output : 
+
 ![Capture 1](https://user-images.githubusercontent.com/94165415/192945690-8e84bd45-d3dd-4500-b104-7efd2a6f38c6.PNG)
+
+The given experiment is succeusfully exicuted
 

@@ -45,10 +45,12 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Experiment :
 
-
+![Capture](https://user-images.githubusercontent.com/94165415/192945546-0749e784-14b9-40ab-a60f-06c0422041b1.PNG)
 # Program :
 
 
 
 
 # Results and Output : 
+![Capture 1](https://user-images.githubusercontent.com/94165415/192945690-8e84bd45-d3dd-4500-b104-7efd2a6f38c6.PNG)
+

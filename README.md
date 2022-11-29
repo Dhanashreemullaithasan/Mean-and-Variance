@@ -75,9 +75,8 @@ print ("The Standard deviation of arrival from feeder is %.3F
 "%SD)
 ```
 
-# Results and Output : 
+# Output : 
 
 ![Capture 1](https://user-images.githubusercontent.com/94165415/192945690-8e84bd45-d3dd-4500-b104-7efd2a6f38c6.PNG)
-
-The given experiment is succeusfully exicuted
-
+# Result :
+The mean and variance of the arraival rate of the feeder from feeder is calculated.
